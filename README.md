@@ -19,4 +19,4 @@ http://localhost:3000
 
 ## Access streams
 
-http://localhist:3000/streams.json
+http://localhost:3000/streams.json
