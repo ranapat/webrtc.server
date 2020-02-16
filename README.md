@@ -1,6 +1,6 @@
 # webrtc.server
 
-Example WebRTC nodejs server. Based on [ProjectRTC](https://github.com/pchab/ProjectRTC).
+WebRTC nodejs server. Based on [ProjectRTC](https://github.com/pchab/ProjectRTC).
 
 ## Install:
 
